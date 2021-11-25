@@ -1,0 +1,5 @@
+C:\Users\fazit\OneDrive\Desktop\OOPQ#61\obj\Debug\net6.0\OOPQ#61.csproj.AssemblyReference.cache
+C:\Users\fazit\OneDrive\Desktop\OOPQ#61\obj\Debug\net6.0\OOPQ#61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fazit\OneDrive\Desktop\OOPQ#61\obj\Debug\net6.0\OOPQ#61.AssemblyInfoInputs.cache
+C:\Users\fazit\OneDrive\Desktop\OOPQ#61\obj\Debug\net6.0\OOPQ#61.AssemblyInfo.cs
+C:\Users\fazit\OneDrive\Desktop\OOPQ#61\obj\Debug\net6.0\OOPQ#61.csproj.CoreCompileInputs.cache
